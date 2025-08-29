@@ -130,7 +130,7 @@ function LandingPage() {
             className='flex justify-center'
           >
             <img
-              src='/images/hero-skincare.jpg'
+              src='https://d2wrwj382xgrci.cloudfront.net/Pictures/480xany/4/2/4/12424_pe_necessary_good_bottles_333035.jpg'
               alt='Minimalist skincare products on a clean background'
               className='rounded-xl shadow-lg max-w-full h-auto'
               width={420}
